@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\yagmu\source\repos\Virtual Painter\Virtual Painter\main.cpp(33,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\yagmu\source\repos\Virtual Painter\Virtual Painter\main.cpp(37,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Virtual Painter.vcxproj -> C:\Users\yagmu\source\repos\Virtual Painter\x64\Debug\Virtual Painter.exe
